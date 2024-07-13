@@ -4,7 +4,7 @@ This repository provide an index of Linkedin VLSI content creators and their mat
 ## List By Topic
 ### Analog Design
 ### Analog Layout
-### Embedded System
+### Embedded Systems
 ### Digital Design
 ### Digital Verification
 ### ASIC Physical Design
@@ -39,7 +39,7 @@ This repository provide an index of Linkedin VLSI content creators and their mat
 
 - [Jairaj Mirashi](https://www.linkedin.com/in/jairaj-mirashi-design-verification-engineer/) - Design Verification Engineer
 - [Jonas Julian Jensen](https://www.linkedin.com/in/jojuljen/) - Hardware and software engineer | VHDL blogger | Instructor at VHDLwhiz.com
-
+- [Joseph Ogbonna]([https://www.linkedin.com/in/jojuljen/](https://www.linkedin.com/in/joseph-ogbonna-2844171a5/) Hardware Design Engineer | IoT Solutions Specialist | Transforming Ideas into Innovative Electronics & PCB Solutions
 ### K
 
 - [Koray Karakurt](https://www.linkedin.com/in/koray-karakurt/) - FPGA Expert
@@ -60,7 +60,7 @@ This repository provide an index of Linkedin VLSI content creators and their mat
 ### O
 
 ### P
-
+- [Prasanthi Chanda](https://www.linkedin.com/in/prasanthi-chanda-484205245/) - Co-Founder & Managing Director at Semi Design | Project Mentor | Content Creator | Editor | VLSI Influencer | Young Inspirational Leader | VLSI Engineer
 - [Pooja Kumawat](https://www.linkedin.com/in/pooja47/) - 10k+ @Linkedin | ASIC Engineer @ NVIDIA | Intel Corporation | NXP Semiconductors | IIT BHU
 
 ### Q
@@ -74,7 +74,7 @@ This repository provide an index of Linkedin VLSI content creators and their mat
 ### S
 
 - [Simon Southwell](https://www.linkedin.com/in/simon-southwell-7684482/) - Semi-retired logic, software and systems designer. Technical writer, mentor, educator and presenter.
-
+- [Sri Harsha](https://www.linkedin.com/in/sriharsha-vangalapudi/) - ASIC Design and Verification Trainee @ VLSI FIRST | Student at PSCMRCET, JNTUK, EC'2K24 | PLC | Ex-intern at BHEL, Hyderabad
 ### T
 
 ### U
