@@ -2,13 +2,12 @@
 This repository provide an index of Linkedin VLSI content creators and their materials
 
 ## List By Topic
-
+### Analog Design
+### Analog Layout
+### Embedded System
 ### Digital Design
-
 ### Digital Verification
-
 ### ASIC Physical Design
-
 ### Scripting
 
 ## List By Name
@@ -53,7 +52,6 @@ This repository provide an index of Linkedin VLSI content creators and their mat
 ### M
 - [Michael Korobkov](https://www.linkedin.com/in/korobkov-michael/) - Leader of the FPGA / RTL / Verification developers community @fpgasystems
 - [Muhammad Isa Aldacher](https://www.linkedin.com/in/muhammad-isa-aldacher-95336831/) - Analog / Mixed-Signal Design Engineer at Intel
-
 - [Murali kumar M](https://www.linkedin.com/in/thefpgaman/) - FPGA Expert
 
 
@@ -82,6 +80,7 @@ This repository provide an index of Linkedin VLSI content creators and their mat
 ### U
 
 ### V
+- [vlsideepdive](https://www.linkedin.com/company/vlsideepdive/)
 
 ### W
 
