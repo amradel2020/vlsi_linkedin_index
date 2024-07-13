@@ -47,6 +47,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Jairaj Mirashi](https://www.linkedin.com/in/jairaj-mirashi-design-verification-engineer/) - Design Verification Engineer
 - [Jonas Julian Jensen](https://www.linkedin.com/in/jojuljen/) - Hardware and software engineer | VHDL blogger | Instructor at VHDLwhiz.com
 - [Joseph Ogbonna](https://www.linkedin.com/in/joseph-ogbonna-2844171a5/) - Hardware Design Engineer | IoT Solutions Specialist | Transforming Ideas into Innovative Electronics & PCB Solutions
+- [Javed G S, PhD](https://www.linkedin.com/in/javed-g-s-phd/) - Analog Design Manager @ Intel Advanced Design
 
 ### K
 
@@ -99,6 +100,9 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Shilpi Gupta](https://www.linkedin.com/in/shilpi-garg2328/) - 15k+ @LinkedIn | System Hardware Engineer @ Microsoft
 - [Simon Southwell](https://www.linkedin.com/in/simon-southwell-7684482/) - Semi-retired logic, software and systems designer. Technical writer, mentor, educator and presenter.
 - [Sri Harsha](https://www.linkedin.com/in/sriharsha-vangalapudi/) - ASIC Design and Verification Trainee @ VLSI FIRST
+- [Sweety P.](https://www.linkedin.com/in/sweetypinjani/) - Formal Verification Engineer | Certified Keynote Speaker | Married to Semiconductors
+- [Shraddha Pawankar](https://www.linkedin.com/in/shraddha-pawankar-abc/) - Design and Verification Engineer
+- [Sougata Bhattacharjee](https://www.linkedin.com/in/sougata-bhattacharjee/) - LinkedIn Top Voice Samsung (SSIR) | Ex - Intel | ASIC Verification | Proficient in SV, UVM, OVM, SVA, Verilog
 
 ### T
 
