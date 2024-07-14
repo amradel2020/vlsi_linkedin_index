@@ -22,6 +22,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Jonas Julian Jensen](https://www.linkedin.com/in/jojuljen/) - Hardware and software engineer | VHDL blogger | Instructor at VHDLwhiz.com
 - [Koray Karakurt](https://www.linkedin.com/in/koray-karakurt/) - FPGA Expert
 - [Kumar Khandagle](https://www.linkedin.com/in/kumar-khandagle-6578b8194/) - Trainer @ Namaste FPGA
+- [Luca Benini](https://www.linkedin.com/in/lubenini/) - Full Professor at the University of Bologna and Chair of Digital Circuits and Systems at ETH Zurich
 - [Lukas Vik](https://www.linkedin.com/in/lukas-vik/) - FPGA Expert
 - [Michael Korobkov](https://www.linkedin.com/in/korobkov-michael/) - Leader of the FPGA / RTL / Verification developers community @fpgasystems
 - [Mitu Raj](https://www.linkedin.com/in/iammituraj/) - RTL Design Engineer & Embedded SW Developer ⇋ Founder & Content Creator at Chipmunk Logic™
@@ -32,8 +33,15 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34/) - FPGA Influencer
 
 ### Digital Verification
+- [Ahmed Alsawi](https://www.linkedin.com/in/ahmed-alsawi/) - Design Verification Engineer
+- [Anand Shirahatti](https://www.linkedin.com/in/anand-shirahatti-1258235/) - Scaling DV Teams
+- [Augustin JK](https://www.linkedin.com/in/augustin-jeba-kumar/) - Design Verification Engineer
+- [Dave Rich](https://www.linkedin.com/in/davidrich/) - Verification Methodologist at Siemens EDA
 - [Jairaj Mirashi](https://www.linkedin.com/in/jairaj-mirashi-design-verification-engineer/) - Design Verification Engineer
+- [Jatin Koshiya](https://www.linkedin.com/in/jatinkoshiya/) - Design Verification Engineer 2 @ Microsoft | Ex Nvidia, Intel & TCS | 11k+ Followers | Mentor
+- [Peter Monsson](https://www.linkedin.com/in/petermonsson/) - Verification Tips | UVMkit.com | Verification Engineer
 - [Prasanthi Chanda](https://www.linkedin.com/in/prasanthi-chanda-484205245/) - Co-Founder & Managing Director at Semi Design
+- [Pravallika Tammisetty](https://www.linkedin.com/in/pravallika-tammisetty-629091173/) - Senior Verification Engineer
 - [Robin Garg](https://www.linkedin.com/in/robingarg89/) - Principal Engineer, DV Architect at Intel || ex - Nuvia/Qualcomm/Arm
 - [Sweety P.](https://www.linkedin.com/in/sweetypinjani/) - Formal Verification Engineer | Certified Keynote Speaker | Married to Semiconductors
 - [Shraddha Pawankar](https://www.linkedin.com/in/shraddha-pawankar-abc/) - Design and Verification Engineer
@@ -44,6 +52,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Isha Sood](https://www.linkedin.com/in/isha-sood-3602137/) - Structural Design Engineer at Intel | Ex-Lead Product Engineer at Cadence | Static Timing Analyst at Altran || IITK || Business Consultant
 - [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) - Co-Founder at VLSI System Design, nurturing students in semiconductors
 - [Pooja Kumawat](https://www.linkedin.com/in/pooja47/) - 10k+ @Linkedin | ASIC Engineer @ NVIDIA | Intel Corporation | NXP Semiconductors | IIT BHU
+- [Puneet Mittal](https://www.linkedin.com/in/mittalpuneet/) - Founder, Mentor, and Passionate Trainer at VLSI EXPERT Pvt. Ltd.
 - [Rashid Iqbal](https://www.linkedin.com/in/rashidco) - 23 years in Chip Design | 19 years at Intel | Physical Design
 
 ### Scripting
@@ -64,9 +73,12 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 ### A
 
 - [Ahmed-Abdelazeem](https://www.linkedin.com/in/ahmed-abdelazeem/) - ASIC Physical Design Engineer
+- [Ahmed Alsawi](https://www.linkedin.com/in/ahmed-alsawi/) - Design Verification Engineer
 - [Ahmed-Saghafi](https://www.linkedin.com/in/ahmad-saghafi/) - Founder & CEO of FPGA Technology Training (FPGATEK) | Founder of FaradAndish | FPGA Expert | Online Course Creator
+- [Anand Shirahatti](https://www.linkedin.com/in/anand-shirahatti-1258235/) - Scaling DV Teams
 - [Anshul Jain](https://www.linkedin.com/in/iamanshuljain/) - Principal Engineer, Formal Verification Architect @FVCTO, Intel Corporation
-
+- [Augustin JK](https://www.linkedin.com/in/augustin-jeba-kumar/) - Design Verification Engineer
+  
 ### B
 
 - [Balajee Seshadri](https://www.linkedin.com/in/balajeeseshadri/) - Freely Sharing Embedded Systems Programming Course
@@ -74,6 +86,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 ### C
 
 ### D
+- [Dave Rich](https://www.linkedin.com/in/davidrich/) - Verification Methodologist at Siemens EDA
 
 ### E
 
@@ -96,6 +109,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 ### J
 
 - [Jairaj Mirashi](https://www.linkedin.com/in/jairaj-mirashi-design-verification-engineer/) - Design Verification Engineer
+- [Jatin Koshiya](https://www.linkedin.com/in/jatinkoshiya/) - Design Verification Engineer 2 @ Microsoft | Ex Nvidia, Intel & TCS | 11k+ Followers | Mentor
 - [Jonas Julian Jensen](https://www.linkedin.com/in/jojuljen/) - Hardware and software engineer | VHDL blogger | Instructor at VHDLwhiz.com
 - [Joseph Ogbonna](https://www.linkedin.com/in/joseph-ogbonna-2844171a5/) - Hardware Design Engineer | IoT Solutions Specialist | Transforming Ideas into Innovative Electronics & PCB Solutions
 - [Javed G S, PhD](https://www.linkedin.com/in/javed-g-s-phd/) - Analog Design Manager @ Intel Advanced Design
@@ -110,6 +124,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 ### L
 
 - [Learn VLSI](https://www.linkedin.com/company/learnvlsi/)
+- [Luca Benini](https://www.linkedin.com/in/lubenini/) - Full Professor at the University of Bologna and Chair of Digital Circuits and Systems at ETH Zurich
 - [Lukas Vik](https://www.linkedin.com/in/lukas-vik/) - FPGA Expert
 
 ### M
@@ -129,10 +144,13 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 
 ### P
 
+- [Peter Monsson](https://www.linkedin.com/in/petermonsson/) - Verification Tips | UVMkit.com | Verification Engineer
 - [Prasanthi Chanda](https://www.linkedin.com/in/prasanthi-chanda-484205245/) - Co-Founder & Managing Director at Semi Design
+- [Pravallika Tammisetty](https://www.linkedin.com/in/pravallika-tammisetty-629091173/) - Senior Verification Engineer
 - [Pooja Kumawat](https://www.linkedin.com/in/pooja47/) - 10k+ @Linkedin | ASIC Engineer @ NVIDIA | Intel Corporation | NXP Semiconductors | IIT BHU
 - [Priya Pandey](https://www.linkedin.com/in/pandey-priya/) - Senior Engineer 1-Design@Microchip Technology ▪️ AI/ML/Data-Science Enthusiast
 - [Piyush Itankar](https://www.linkedin.com/in/streetdogg/) - Embedded Systems @Google | inpyjama.com
+- [Puneet Mittal](https://www.linkedin.com/in/mittalpuneet/) - Founder, Mentor, and Passionate Trainer at VLSI EXPERT Pvt. Ltd.
 
 ### Q
 
