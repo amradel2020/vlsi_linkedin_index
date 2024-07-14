@@ -3,11 +3,13 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 
 ## List By Topic
 ### Analog Design
+- [Chembiyan T](https://www.linkedin.com/in/chembiyan-t-0b34b910/) - Senior Staff RF/Analog Engineer
 - [Hesham Omran](https://www.linkedin.com/in/omranh/) - Associate Professor and CTO
 - [Himanshu Agarwal](https://www.linkedin.com/in/himanshu-agarwal-37148219a/) - PrepFusion || AIR 27(EC), AIR 45(IN) GATE'22 || YouTube @HimanshuAgarwal_ & @PrepFusion_GATE
 - [Javed G S, PhD](https://www.linkedin.com/in/javed-g-s-phd/) - Analog Design Manager @ Intel Advanced Design
 - [Muhammad Isa Aldacher](https://www.linkedin.com/in/muhammad-isa-aldacher-95336831/) - Analog / Mixed-Signal Design Engineer at Intel
 - [Master Micro](https://www.linkedin.com/company/master-micro/) - Master Micro provides EDA solutions and professional training and consulting services in the field of microelectronics.
+- [N. Raja Sekhar](https://www.linkedin.com/in/n-raja-sekhar-08ab1011/) - Analog Design Manager
 
 ### Analog Layout
 ### Embedded Systems
@@ -39,6 +41,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Dave Rich](https://www.linkedin.com/in/davidrich/) - Verification Methodologist at Siemens EDA
 - [Jairaj Mirashi](https://www.linkedin.com/in/jairaj-mirashi-design-verification-engineer/) - Design Verification Engineer
 - [Jatin Koshiya](https://www.linkedin.com/in/jatinkoshiya/) - Design Verification Engineer 2 @ Microsoft | Ex Nvidia, Intel & TCS | 11k+ Followers | Mentor
+- [Harshit G.](https://www.linkedin.com/in/harshitgupta97/) - Design Verification Engineer @ Intel || Helped 500+ jobseekers in VLSI || Mock interview
 - [Peter Monsson](https://www.linkedin.com/in/petermonsson/) - Verification Tips | UVMkit.com | Verification Engineer
 - [Prasanthi Chanda](https://www.linkedin.com/in/prasanthi-chanda-484205245/) - Co-Founder & Managing Director at Semi Design
 - [Pravallika Tammisetty](https://www.linkedin.com/in/pravallika-tammisetty-629091173/) - Senior Verification Engineer
@@ -84,6 +87,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Balajee Seshadri](https://www.linkedin.com/in/balajeeseshadri/) - Freely Sharing Embedded Systems Programming Course
 
 ### C
+- [Chembiyan T](https://www.linkedin.com/in/chembiyan-t-0b34b910/) - Senior Staff RF/Analog Engineer
 
 ### D
 - [Dave Rich](https://www.linkedin.com/in/davidrich/) - Verification Methodologist at Siemens EDA
@@ -98,6 +102,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 
 ### H
 
+- [Harshit G.](https://www.linkedin.com/in/harshitgupta97/) - Design Verification Engineer @ Intel || Helped 500+ jobseekers in VLSI || Mock interview
 - [Hemanth Chintalapudi](https://www.linkedin.com/in/hemanthch/) - Educator & Writer | Technical Sketch Artist | ASIC RTL Design Engineer
 - [Hesham Omran](https://www.linkedin.com/in/omranh/) - Associate Professor and CTO
 - [Himanshu Agarwal](https://www.linkedin.com/in/himanshu-agarwal-37148219a/) - PrepFusion || AIR 27(EC), AIR 45(IN) GATE'22 || YouTube @HimanshuAgarwal_ & @PrepFusion_GATE
@@ -137,6 +142,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Master Micro](https://www.linkedin.com/company/master-micro/) - Master Micro provides EDA solutions and professional training and consulting services in the field of microelectronics.
 
 ### N
+- [N. Raja Sekhar](https://www.linkedin.com/in/n-raja-sekhar-08ab1011/) - Analog Design Manager
 
 ### O
 
