@@ -4,6 +4,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 ## List By Topic
 ### Analog Design
 - [Chembiyan T](https://www.linkedin.com/in/chembiyan-t-0b34b910/) - Senior Staff RF/Analog Engineer
+- [Guillermo Martínez](https://www.linkedin.com/in/guillermb) - Hardware technical leader at Zennio
 - [Hesham Omran](https://www.linkedin.com/in/omranh/) - Associate Professor and CTO
 - [Himanshu Agarwal](https://www.linkedin.com/in/himanshu-agarwal-37148219a/) - PrepFusion || AIR 27(EC), AIR 45(IN) GATE'22 || YouTube @HimanshuAgarwal_ & @PrepFusion_GATE
 - [Javed G S, PhD](https://www.linkedin.com/in/javed-g-s-phd/) - Analog Design Manager @ Intel Advanced Design
@@ -99,6 +100,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 ### G
 
 - [Garal Das](https://www.linkedin.com/in/garal-das-aa895417a/) - EX Student OF HIT : AN ORDINARY TECH ENTHUSIAST.
+- [Guillermo Martínez](https://www.linkedin.com/in/guillermb) - Hardware technical leader at Zennio
 
 ### H
 
