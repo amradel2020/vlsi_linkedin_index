@@ -11,6 +11,8 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Muhammad Isa Aldacher](https://www.linkedin.com/in/muhammad-isa-aldacher-95336831/) - Analog / Mixed-Signal Design Engineer at Intel
 - [Master Micro](https://www.linkedin.com/company/master-micro/) - Master Micro provides EDA solutions and professional training and consulting services in the field of microelectronics.
 - [N. Raja Sekhar](https://www.linkedin.com/in/n-raja-sekhar-08ab1011/) - Analog Design Manager
+- [Shubham Jaiswal](https://www.linkedin.com/in/shubhamjaiswal-iisc/) - IISc Bangalore || M.Tech’25 || Analog/RF IC design Analog circuit design
+- [Tejas Ketkar](https://www.linkedin.com/in/tejas-ketkar-568863167/) - Circuit Designer | IEEE EDS UG Fellow | YouTube @ TejasKetkar
 
 ### Analog Layout
 ### Embedded Systems
@@ -44,6 +46,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Jatin Koshiya](https://www.linkedin.com/in/jatinkoshiya/) - Design Verification Engineer 2 @ Microsoft | Ex Nvidia, Intel & TCS | 11k+ Followers | Mentor
 - [Harshit G.](https://www.linkedin.com/in/harshitgupta97/) - Design Verification Engineer @ Intel || Helped 500+ jobseekers in VLSI || Mock interview
 - [Peter Monsson](https://www.linkedin.com/in/petermonsson/) - Verification Tips | UVMkit.com | Verification Engineer
+- [Peng Yu](https://www.linkedin.com/in/peng-y-90121b294/) - Sr. Formal Verification Specialist | 14 yoe at Cadence | Making Professional Formal Verification Training Accessible To Individuals
 - [Prasanthi Chanda](https://www.linkedin.com/in/prasanthi-chanda-484205245/) - Co-Founder & Managing Director at Semi Design
 - [Pravallika Tammisetty](https://www.linkedin.com/in/pravallika-tammisetty-629091173/) - Senior Verification Engineer
 - [Robin Garg](https://www.linkedin.com/in/robingarg89/) - Principal Engineer, DV Architect at Intel || ex - Nuvia/Qualcomm/Arm
@@ -56,6 +59,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Isha Sood](https://www.linkedin.com/in/isha-sood-3602137/) - Structural Design Engineer at Intel | Ex-Lead Product Engineer at Cadence | Static Timing Analyst at Altran || IITK || Business Consultant
 - [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) - Co-Founder at VLSI System Design, nurturing students in semiconductors
 - [Pooja Kumawat](https://www.linkedin.com/in/pooja47/) - 10k+ @Linkedin | ASIC Engineer @ NVIDIA | Intel Corporation | NXP Semiconductors | IIT BHU
+- [Prince Gupta](https://www.linkedin.com/in/prince-gupta-8b253987/) - Senior Staff Engineer - Physical Design | Ex-Intel
 - [Puneet Mittal](https://www.linkedin.com/in/mittalpuneet/) - Founder, Mentor, and Passionate Trainer at VLSI EXPERT Pvt. Ltd.
 - [Rashid Iqbal](https://www.linkedin.com/in/rashidco) - 23 years in Chip Design | 19 years at Intel | Physical Design
 
