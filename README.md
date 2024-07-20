@@ -37,6 +37,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Onur Mutlu](https://www.linkedin.com/in/omutlu/) - Professor at ETH Zürich, Visiting Professor at Stanford University, Adjunct Professor at Carnegie Mellon University
 - [Rahul Behl](https://www.linkedin.com/in/raulbehl/) - Tenstorrent | Teaching proven hands-on RTL Design & Verification courses to succeed as a Hardware Engineer
 - [Russell Merrick](https://www.linkedin.com/in/russell-merrick-6058b34/) - FPGA Influencer
+- [Yunus Esergün](https://www.linkedin.com/in/yunus-eserg%C3%BCn-673577202/) - FPGA Design Engineer at ASELSAN
 
 ### Digital Verification
 - [Ahmed Alsawi](https://www.linkedin.com/in/ahmed-alsawi/) - Design Verification Engineer
