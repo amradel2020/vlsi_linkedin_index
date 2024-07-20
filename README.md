@@ -70,6 +70,15 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 ### Design For Test (DFT)
 
 ### PCB Design
+- [Fabrizio Barragan](https://www.linkedin.com/in/fabrizio-barragan-aa2602ba/) - Electronic Designer IPC-CID/ IPC-A-610 CIT / Hardware PCB Layout
+- [Lukas Henkel](https://www.linkedin.com/in/lukas-henkel-ovt/) - Open Visions Technology - providing engineering services and highly repairable fully open-hardware consumer electronics
+- [Petr Dvořák](https://www.linkedin.com/in/petr-dvorak-hw/) - Hardware Designer
+- [Raghavendra Anjanappa](https://www.linkedin.com/in/raghavendra-anjanappa-ba7a0432/) - Ex-Manager PDE Micron Hyderabad
+- [Sobhan Aram](https://www.linkedin.com/in/sobhanaramm/) - Hardware System Designer | Electronic Design Engineer | Repairs of Electronic Systems | Microcontrollers | Control Systems
+- [Sobhan Jahaniparast](https://www.linkedin.com/in/sobhan-jahaniparast-930691203/) - Embedded Hardware | PCB Engineer | Consultant
+- [Waseem Alkhayer](https://www.linkedin.com/in/waseemalkhayer/) - Hardware Product Development
+- [Wei Zhang](https://www.linkedin.com/in/wei-zhang-ab2619307/) - PCB Design
+- [Zachariah Peterson](https://www.linkedin.com/in/zachariah-peterson/) - Owner, NWES | PCB Design for RF, Mil-Aero, Data Center, AI/ML | That guy in the Altium videos
 
 ### General
 - [Garal Das](https://www.linkedin.com/in/garal-das-aa895417a/) - EX Student OF HIT : AN ORDINARY TECH ENTHUSIAST.
