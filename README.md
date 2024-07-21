@@ -44,6 +44,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Anand Shirahatti](https://www.linkedin.com/in/anand-shirahatti-1258235/) - Scaling DV Teams
 - [Augustin JK](https://www.linkedin.com/in/augustin-jeba-kumar/) - Design Verification Engineer
 - [Dave Rich](https://www.linkedin.com/in/davidrich/) - Verification Methodologist at Siemens EDA
+- [Deva Kumar Talluri](https://www.linkedin.com/in/deva-kumar-talluri-028463284/) - DV engineer & EX professor of electronics and communication engineering (15+ years of technical experience)
 - [Jairaj Mirashi](https://www.linkedin.com/in/jairaj-mirashi-design-verification-engineer/) - Design Verification Engineer
 - [Jatin Koshiya](https://www.linkedin.com/in/jatinkoshiya/) - Design Verification Engineer 2 @ Microsoft | Ex Nvidia, Intel & TCS | 11k+ Followers | Mentor
 - [Harshit G.](https://www.linkedin.com/in/harshitgupta97/) - Design Verification Engineer @ Intel || Helped 500+ jobseekers in VLSI || Mock interview
