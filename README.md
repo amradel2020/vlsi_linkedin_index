@@ -53,6 +53,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Prasanthi Chanda](https://www.linkedin.com/in/prasanthi-chanda-484205245/) - Co-Founder & Managing Director at Semi Design
 - [Pravallika Tammisetty](https://www.linkedin.com/in/pravallika-tammisetty-629091173/) - Senior Verification Engineer
 - [Robin Garg](https://www.linkedin.com/in/robingarg89/) - Principal Engineer, DV Architect at Intel || ex - Nuvia/Qualcomm/Arm
+- [Seelam Narendra Reddy](https://www.linkedin.com/in/seelam-narendra-reddy-b66a56168/) - Design Verification Engineer
 - [Sweety P.](https://www.linkedin.com/in/sweetypinjani/) - Formal Verification Engineer | Certified Keynote Speaker | Married to Semiconductors
 - [Shraddha Pawankar](https://www.linkedin.com/in/shraddha-pawankar-abc/) - Design and Verification Engineer
 - [Sougata Bhattacharjee](https://www.linkedin.com/in/sougata-bhattacharjee/) - LinkedIn Top Voice Samsung (SSIR) | Ex - Intel | ASIC Verification | Proficient in SV, UVM, OVM, SVA, Verilog
