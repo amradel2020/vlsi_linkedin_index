@@ -64,8 +64,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Prince Gupta](https://www.linkedin.com/in/prince-gupta-8b253987/) - Senior Staff Engineer - Physical Design | Ex-Intel
 - [Puneet Mittal](https://www.linkedin.com/in/mittalpuneet/) - Founder, Mentor, and Passionate Trainer at VLSI EXPERT Pvt. Ltd.
 - [Rashid Iqbal](https://www.linkedin.com/in/rashidco) - 23 years in Chip Design | 19 years at Intel | Physical Design
-
-### Scripting and Automation
+- [Venu Kumar Kare](https://www.linkedin.com/in/venu-kumar-kare-465265233/) - Physical Design Trainee at Chip Edge Technologies Pvt. Ltd.
 
 ### Design For Test (DFT)
 
