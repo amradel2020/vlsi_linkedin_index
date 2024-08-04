@@ -65,10 +65,12 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Pooja Kumawat](https://www.linkedin.com/in/pooja47/) - 10k+ @Linkedin | ASIC Engineer @ NVIDIA | Intel Corporation | NXP Semiconductors | IIT BHU
 - [Prince Gupta](https://www.linkedin.com/in/prince-gupta-8b253987/) - Senior Staff Engineer - Physical Design | Ex-Intel
 - [Puneet Mittal](https://www.linkedin.com/in/mittalpuneet/) - Founder, Mentor, and Passionate Trainer at VLSI EXPERT Pvt. Ltd.
+- [Ramesh Kumar](https://www.linkedin.com/in/rameshkumar95/) - Physical Design || EMIR || PV || M.tech in VLSI || NIT SURAT
 - [Rashid Iqbal](https://www.linkedin.com/in/rashidco) - 23 years in Chip Design | 19 years at Intel | Physical Design
 - [Venu Kumar Kare](https://www.linkedin.com/in/venu-kumar-kare-465265233/) - Physical Design Trainee at Chip Edge Technologies Pvt. Ltd.
 
 ### Design For Test (DFT)
+- [Ashwani Maurya](https://www.linkedin.com/in/ashwani-maurya-562865117/) - MBIST - EDT - OCC - SCAN - ATPG - SIM - DBUG
 
 ### PCB Design
 - [Fabrizio Barragan](https://www.linkedin.com/in/fabrizio-barragan-aa2602ba/) - Electronic Designer IPC-CID/ IPC-A-610 CIT / Hardware PCB Layout
