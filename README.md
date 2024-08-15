@@ -26,6 +26,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Ahmed-Saghafi](https://www.linkedin.com/in/ahmad-saghafi/) - Founder & CEO of FPGA Technology Training (FPGATEK) | Founder of FaradAndish | FPGA Expert | Online Course Creator
 - [Adam Taylor](https://www.linkedin.com/in/adam-taylor-8a991713/) - Founder of FPGA Consultancy - Adiuvo Engineering. Embedded Systems Consultant, FPGA Expert, Prolific FPGA Writer
 - [Hemanth Chintalapudi](https://www.linkedin.com/in/hemanthch/) - Educator & Writer | Technical Sketch Artist | ASIC RTL Design Engineer
+- [Gregory Stitt](https://www.linkedin.com/in/gregory-stitt-92ab1819/) - Senior FPGA Engineer at Quantlab
 - [Jonas Julian Jensen](https://www.linkedin.com/in/jojuljen/) - Hardware and software engineer | VHDL blogger | Instructor at VHDLwhiz.com
 - [Koray Karakurt](https://www.linkedin.com/in/koray-karakurt/) - FPGA Expert
 - [Kumar Khandagle](https://www.linkedin.com/in/kumar-khandagle-6578b8194/) - Trainer @ Namaste FPGA
