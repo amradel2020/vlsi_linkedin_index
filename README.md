@@ -3,6 +3,7 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 
 ## List By Topic
 ### Analog Design
+- [Amit Bar](https://www.linkedin.com/in/amitbarju2023/) - Analog Circuit Design Engineer || YouTube - Amit Bar
 - [Anurag Bhargava](https://www.linkedin.com/in/anurag-bhargava-b64239b/) - Customer Success Manager | YouTuber | RF Design Enthusiast
 - [Chembiyan T](https://www.linkedin.com/in/chembiyan-t-0b34b910/) - Senior Staff RF/Analog Engineer
 - [Guillermo Martínez](https://www.linkedin.com/in/guillermb) - Hardware technical leader at Zennio
