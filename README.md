@@ -23,6 +23,9 @@ This repository provides an index of LinkedIn VLSI content creators and their ma
 - [Piyush Itankar](https://www.linkedin.com/in/streetdogg/) - Embedded Systems @Google | inpyjama.com
 - [Rosmianto Aji Saputro](https://www.linkedin.com/in/rosmianto/) - I help Arduino hobbyists transform into Pro Embedded Engineers | hobby2pro.rosmianto.com
 
+### Fabrication
+- [Hyeongwon (HW.Seo) Seo](https://www.linkedin.com/in/hyeongwon-seo-60206a244/) - 3D V-RAM and V-CMOS unit concept, patent, and structure development. *Freelancer
+
 ### Digital Design
 - [Ahmed-Saghafi](https://www.linkedin.com/in/ahmad-saghafi/) - Founder & CEO of FPGA Technology Training (FPGATEK) | Founder of FaradAndish | FPGA Expert | Online Course Creator
 - [Adam Taylor](https://www.linkedin.com/in/adam-taylor-8a991713/) - Founder of FPGA Consultancy - Adiuvo Engineering. Embedded Systems Consultant, FPGA Expert, Prolific FPGA Writer
